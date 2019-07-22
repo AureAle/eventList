@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "name": "Yoss' birthday",
+      "description": "optional description",
+      "startDate": "2016-04-21T20:00"
+    },
+    {
+      "name": "Mia's birthday",
+      "description": "optional description",
+      "startDate": "2016-05-13T20:00"
+    },
+    {
+      "name": "My birthday",
+      "description": "optional description",
+      "startDate": "2016-07-15T20:00"
+    }
+  
+  ]
+}

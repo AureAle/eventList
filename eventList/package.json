@@ -1,0 +1,18 @@
+{
+  "name": "eventList",
+  "version": "1.0.0",
+  "description": "A list of events",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AureAle",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
