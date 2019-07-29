@@ -1,35 +1,43 @@
 {
   "events": [
     {
+      "id": 1,
       "name": "Yoss' birthday",
       "description": "optional description",
       "startDate": "2016-04-21T20:00"
     },
     {
+      "id":2,
       "name": "Mia's birthday",
       "description": "optional description",
       "startDate": "2016-05-13T20:00"
     },
     {
+      "id":3,
       "name": "My birthday",
       "description": "optional description",
       "startDate": "2016-07-15T20:00"
     },
     {
+      "id":4,
       "name": "Mom's birthday",
       "description": "optional description",
       "startDate": "2016-07-15T20:00"
-    },{
+    },
+    {
+      "id":5,
       "name": "Dad's birthday",
       "description": "optional description",
       "startDate": "2016-07-15T20:00"
     },
     {
+      "id":6,
       "name": "Ryan's birthday",
       "description": "optional description",
       "startDate": "2016-07-15T20:00"
     },
     {
+      "id":7,
       "name": "Luis' birthday",
       "description": "optional description",
       "startDate": "2016-07-15T20:00"
